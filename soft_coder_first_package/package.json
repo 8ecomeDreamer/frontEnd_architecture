@@ -1,0 +1,15 @@
+{
+  "name": "soft_coder_first_package",
+  "version": "1.0.0",
+  "description": "",
+  "bin":{
+    "soft_coder_first_package":"bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
