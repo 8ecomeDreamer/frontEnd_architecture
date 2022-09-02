@@ -1,9 +1,9 @@
 {
-  "name": "soft_coder_first_package",
+  "name": "coder_test",
   "version": "1.0.0",
   "description": "",
   "bin":{
-    "soft_coder_first_package":"bin/index.js"
+    "coder_test":"bin/index.js"
   },
   "main": "index.js",
   "scripts": {
