@@ -1,15 +1,11 @@
 {
-  "name": "coder_test",
+  "name": "first_package_lib",
   "version": "1.0.0",
   "description": "",
-  "bin":{
-    "coder_test":"bin/index.js"
-  },
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC"
 }
